@@ -34,8 +34,7 @@ For more insights view reports file.
 ### Running the Project
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/agriculture-analysis.git
-cd agriculture-analysis
+git clone https://github.com/Ankit6174AgriCast-Predictive-Analytics-for-Crop-Production
 
 # Install dependencies
 pip install -r requirements.txt
